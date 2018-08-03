@@ -8,7 +8,8 @@ By automated generating and deploying, it is easier for me to find syntax error 
 
 1. put this script into your hexo folder (project/main folder).
 2. change `TIMEOUT` parameter according to your posts' number.
-3. enable `crontab` in terminal.
+3. change `YOUR_HEXO_DIR` to your hexo project directory.
+3. enable `crontab` in terminal by your preference.
 
 # comments
 
