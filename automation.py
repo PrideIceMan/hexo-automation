@@ -3,10 +3,9 @@
 
 import subprocess
 import logging
-import os
 
 TIMEOUT = 90
-YOUR_HEXO_DIR = os.getcwd()
+YOUR_HEXO_DIR = '<your_hexo_directory>'
 
 def gd(logger):
 	'''
