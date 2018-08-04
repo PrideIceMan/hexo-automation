@@ -13,6 +13,6 @@ By automated generating and deploying, it is easier for me to find syntax error 
 
 # comments
 
-generating of hexo project is slow, try several times of your timeout parameter.
+generating of hexo project is slow, try several times and then determine your `TIMEOUT` parameter.
 
 Have fun!
